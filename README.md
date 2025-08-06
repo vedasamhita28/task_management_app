@@ -1,5 +1,7 @@
 # Task Management App
 
+### “This project is a part of a hackathon run by https://www.katomaran.com"
+ 
 A modern and efficient task management application built with Flutter, designed to help users organize their tasks and boost productivity.
 
 ## Features
@@ -17,8 +19,7 @@ A modern and efficient task management application built with Flutter, designed 
 ## Getting Started
 
 ## Screens from the Application 
-
-![Image](https://github.com/user-attachments/assets/81de5958-37f3-43a5-b4ac-20aa760f05e3) ![Image](https://github.com/user-attachments/assets/11d44da2-a0df-4b39-bb7d-f2bb56858b57) ![Image](https://github.com/user-attachments/assets/1089937d-6b8e-4a51-a539-b1a9acbd9bb0) 
+ ![Image](https://github.com/user-attachments/assets/11d44da2-a0df-4b39-bb7d-f2bb56858b57) ![Image](https://github.com/user-attachments/assets/1089937d-6b8e-4a51-a539-b1a9acbd9bb0) 
 ![Image](https://github.com/user-attachments/assets/94b1d44d-75a7-43fc-8c10-0390c306be08) ![Image](https://github.com/user-attachments/assets/86d67c03-62fc-4faa-81d0-b58c90931bd1) ![Image](https://github.com/user-attachments/assets/c9010e70-57db-403e-beb8-4e8229023571)
 
 
